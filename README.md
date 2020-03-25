@@ -37,6 +37,7 @@ text-align:center;
 	background-color: #242121;
 }
 .navbar a{
+	 font-size:18px;
 	font-family:Franklin Gothic Heavy;
 	color: #ffffff;
 	padding:0;
