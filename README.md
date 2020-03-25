@@ -39,7 +39,6 @@ text-align:center;
 	font-family:Franklin Gothic Heavy;
 	color: #ffffff;
 	padding:0;
-	margin-left:50px;
 	text-decoration:none;
 	font-weight:bold;
 	display: inline-block;
