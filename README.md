@@ -7,13 +7,11 @@
 <body link="white" vlink="white" alink="white">
 <body text="black">
 <body bgcolor="white">
-<center>
 <ul class="navbar">
 <li><a href="#"> Теория </a> </li>
 <li><a href="#"> Литература </a> </li>
 <li><a href="#"> Ссылки </a> </li>
 </ul>
-</center>
 <center> <h1> <font face="Franklin Gothic Heavy"> ИСТОРИЯ ЕГЭ </font> </h1> </center>
 <p> <img src="иллюстрация.png" width="180" height="130"> </p>
  <style>
