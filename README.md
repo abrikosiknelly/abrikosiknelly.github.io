@@ -14,7 +14,7 @@
 <li><a href="#"> Ссылки </a> </li>
 </ul>
 </center>
-<center> <h1> <font face="Franklin Gothic Heavy"> ИСТОРИЯ </br> ЕГЭ </font> </h1> </center>
+<center> <h1> <font face="Franklin Gothic Heavy"> ИСТОРИЯ ЕГЭ </font> </h1> </center>
 <p> <img src="иллюстрация.png" width="180" height="130"> </p>
  <style>
    .navbar{
