@@ -2,6 +2,8 @@ h1{
 padding-top:100px;}
 	 
 .navbar{
+width: 30px;
+radius: 30px;
 float:left;
 width:100%;
 background:#242121;
