@@ -15,7 +15,7 @@
 </ul>
 </center>
 <center> <h1> <font face="Franklin Gothic Heavy"> ИСТОРИЯ </br> ЕГЭ </font> </h1> </center>
-<p> <img src="иллюстрация.png" width="360" height="260"> </p>
+<p> <img src="иллюстрация.png" width="180" height="130"> </p>
  <style>
    .navbar{
 margin-top:0;
